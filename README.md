@@ -5,8 +5,6 @@ The update frequency is daily and hourly.
 #### Temple_Festival
 * district
 * temple
-* lat
-* lng
 * event
 
 ## hourly
